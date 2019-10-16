@@ -30,4 +30,10 @@
 
     ssh -i path/to/AccessKey.pem ubuntu@ec2-12-34-567-890.compute-1.amazonaws.com
 
-- ec2-12-34-567-890.compute-1.amazonaws.com = DNS is found in the instance in aws website. 
+- ec2-12-34-567-890.compute-1.amazonaws.com = DNS is found in the instance in aws website.
+
+- find the provision.sh file
+  - ./provision.sh
+- find the app folder
+  - npm Install
+  - npm start
