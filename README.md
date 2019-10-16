@@ -1,6 +1,6 @@
 # How to use AWS, AMAZON WEB SERVICE
 
-- note to self (always ensure you do not upload your ssh file)
+- note to self (Never upload your ssh file)
 
 
 ## setting up AWS
